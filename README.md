@@ -13,7 +13,7 @@ A menu-driven banking system built using Python.
 - View All Accounts
 - Delete Account
 - Automatic Data Saving
-- Automatic File Creation 
+- Automatic File Creation
 
 ## Concepts Used
 
